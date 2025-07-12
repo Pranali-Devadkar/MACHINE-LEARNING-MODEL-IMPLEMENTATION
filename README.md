@@ -107,10 +107,11 @@ Explore other models like Logistic Regression or SVM
 ---
 
 Author
+
 PRANALI DEVADKAR
-
-
 
 ---
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2f41f0ae-9b90-47f6-afb5-4d4a09011bbc)
