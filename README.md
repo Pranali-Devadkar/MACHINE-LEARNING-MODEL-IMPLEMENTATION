@@ -104,6 +104,8 @@ Include data preprocessing (stop words removal, stemming)
 
 Explore other models like Logistic Regression or SVM
 
+---
+
 Author
 PRANALI DEVADKAR
 
